@@ -9,7 +9,9 @@ body {
     width: 100%;
     height: 100vh;
     /* background: linear-gradient(red, black); */
-    background: linear-gradient(red, black);
+/*     background: linear-gradient(red, black); */
+    background: blue;
+    
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
