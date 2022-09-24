@@ -11,7 +11,7 @@ setInterval(function() {
         hr = 12;
     }
     if (hr > 12) {
-    
+        day = 'PM';
         hr = hr - 12;
     }
     if (sec < 10) {
